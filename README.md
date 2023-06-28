@@ -73,7 +73,7 @@ The Services section outlines the services I offer, such as beauty parlour servi
 
 
 ## Screenshots
-![image][Screenshot (42)](https://github.com/Pavananusuri/pavansfrtproject/assets/124756767/143c5589-808b-4826-97dd-c3d325ef623e)
+![image](https://github.com/Pavananusuri/pavansfrtproject/assets/124756767/143c5589-808b-4826-97dd-c3d325ef623e)
 
 
 ## ✨ Contact 
@@ -82,7 +82,7 @@ In this section, I provide some contact information, such as Name, email address
 The Contact Us page provides visitors with a way to get in touch with slot booking and avaliable slots in the beauty parlour. They can send me a message via a contact form.
 
 ## Screenshots
-![image][Screenshot (43)](https://github.com/Pavananusuri/pavansfrtproject/assets/124756767/6b3fe2af-18e8-46c9-bbeb-d5a5e1b86689)
+![image](https://github.com/Pavananusuri/pavansfrtproject/assets/124756767/6b3fe2af-18e8-46c9-bbeb-d5a5e1b86689)
 
 
 
@@ -92,11 +92,11 @@ The Health Bot is a chatbot that assists visitors with navigating my project. It
 Visitors can interact with the bot by typing in messages and receiving automated replies.
 
 ## Screenshots
-![image][Screenshot (44)](https://github.com/Pavananusuri/pavansfrtproject/assets/124756767/22705e0f-34a5-4495-996c-3a7b949a0c5f)
+![image](https://github.com/Pavananusuri/pavansfrtproject/assets/124756767/22705e0f-34a5-4495-996c-3a7b949a0c5f)
 
 
 ## Screenshots
-![image][Screenshot (44)](https://github.com/Pavananusuri/pavansfrtproject/assets/124756767/20080f11-aed2-479e-94e9-2c1e093645c6)
+![image](https://github.com/Pavananusuri/pavansfrtproject/assets/124756767/20080f11-aed2-479e-94e9-2c1e093645c6)
 
 ## Tech Stack
 
